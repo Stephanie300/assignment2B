@@ -1,4 +1,4 @@
-# Employee Manager Day 10
+# Assignment 2B
 
 __Install__. 
 To start install the project node_modules by running ```npm install```
